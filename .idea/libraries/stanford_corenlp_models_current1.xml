@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="stanford-corenlp-models-current1">
+    <CLASSES>
+      <root url="jar://E:/JAVA/class/stanford-corenlp-models-current.jar!/" />
+      <root url="jar://E:/JAVA/class/stanford-english-corenlp-models-current.jar!/" />
+      <root url="jar://E:/JAVA/class/stanford-english-kbp-corenlp-models-current.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://E:/JAVA/class/stanford-corenlp-models-current.jar!/" recursive="false" />
+    <jarDirectory url="jar://E:/JAVA/class/stanford-english-corenlp-models-current.jar!/" recursive="false" />
+    <jarDirectory url="jar://E:/JAVA/class/stanford-english-kbp-corenlp-models-current.jar!/" recursive="false" />
+  </library>
+</component>
